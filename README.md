@@ -1,7 +1,7 @@
 # web-scraping-challenge
 Data Bootcamp Module 11 Challenge
 
-<img src="images/9299_maven-vertical-limb-320x240.jpeg">
+<img src="https://static.bc-edx.com/data/web/mars_news/images/9299_maven-vertical-limb-320x240.jpeg" width="500" height="300">
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
 
