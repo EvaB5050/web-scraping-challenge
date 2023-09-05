@@ -1,6 +1,8 @@
 # web-scraping-challenge
 Data Bootcamp Module 11 Challenge
 
+<img src="images/9252_1-PIA24836_Perseverance_Selfie_at_Rochette-320x240.jpeg">
+
 ## Part 1: Scrape Titles and Preview Text from Mars News
 
 In the Jupyter Notebook file `part_1_mars_news.ipynb`
