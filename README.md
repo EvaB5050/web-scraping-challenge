@@ -5,7 +5,7 @@ Data Bootcamp Module 11 Challenge
 
 In the Jupyter Notebook file `part_1_mars_news.ipynb`
 
-1. Use automated browsing to visit the following site: [Mars news articles](https://static.bc-edx.com/data/web/mars_news/index.html/) 
+1. Use automated browsing to visit the following site: [Mars news articles](https://static.bc-edx.com/data/web/mars_news/index.html) 
 2. Create a Beautiful Soup object and use it to extract text elements from the website.
 3. Extract the scraped titles and preview text of the news articles and store the results as follows:
    * Store each title-and-preview pair in a Python dictionary with the two keys `title` and `preview`.
